@@ -83,3 +83,7 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+
+# emacs things
+*~
+\#*\#
